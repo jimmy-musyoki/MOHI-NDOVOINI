@@ -1,0 +1,66 @@
+header {
+  background-color: lightblue;
+  font-size: 40px;
+}
+.topnav {
+  background-color: black;
+}
+#columns {
+  text-align: center;
+  font-size: 65px;
+  min-height: 3000px;
+}
+#ndovo {
+  width: 100%;
+  height: 300px;
+}
+#words {
+  text-align: left;
+  font-size: 40px;
+}
+ul{
+  list-style: none;
+  text-align: left;
+  font-size: 30px;
+  font-style: italic;
+  color: green;
+}
+#depa {
+  font-size: 30px;
+  text-decoration: underline;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+footer {
+  background-color: teal;
+}
