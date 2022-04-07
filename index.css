@@ -1,14 +1,17 @@
 header {
   background-color: lightblue;
   font-size: 40px;
+  text-align: center;
 }
 .topnav {
   background-color: black;
+  height: 65px;
+  font-size: 40px;
 }
 #columns {
   text-align: center;
   font-size: 65px;
-  min-height: 3000px;
+  min-height: 800px;
 }
 #ndovo {
   width: 100%;
@@ -33,10 +36,11 @@ ul{
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  height: 75px;
+  width: 75px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 10px 10px;
   border-radius: 50%;
 }
 
@@ -63,4 +67,18 @@ ul{
 }
 footer {
   background-color: teal;
+  text-align: center;
+  height: 200px;
+}
+#fan{
+  color: black;
+}
+#kim {
+  font-size: 25px;
+}
+#tom {
+  color: white;
+}
+#demo{
+  height: 900px;
 }
